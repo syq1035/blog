@@ -1,8 +1,8 @@
 ---
 title: map,filter,reduce的区别
-date: 2018-10-29 10:10:10
+date: 2017-11-29 10:10:10
 tags: ES6
-categories: web
+categories: ES6
 ---
 
 ###### 一张图及其形象的说明：

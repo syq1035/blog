@@ -1,8 +1,8 @@
 ---
 title: canvas + jquery 实现扫雷小游戏
-date: 2018-10-29 10:10:10
+date: 2017-10-26 10:10:10
 tags: 小游戏
-categories: web
+categories: 小游戏
 ---
 
 [游戏试玩](https://syq1035.github.io/clearMine/)

@@ -1,8 +1,8 @@
 ---
 title: parseInt()
-date: 2018-10-29 10:10:10
+date: 2017-9-29 10:10:10
 tags: JS
-categories: web
+categories: JS
 ---
 
 parseInt()函数可解析一个字符串，并返回一个整数.如果第一个字符不是数字，会打印出NaN,若是字符和数字一起，并且数字在前，会打印数字忽略字母

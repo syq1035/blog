@@ -1,8 +1,8 @@
 ---
 title: Git
-date: 2018-10-29 10:10:10
+date: 2017-10-29 10:10:10
 tags: Git
-categories: web
+categories: Git
 ---
 
 ### 配置

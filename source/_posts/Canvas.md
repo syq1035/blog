@@ -1,8 +1,8 @@
 ---
 title: Canvas
-date: 2018-3-29 20:10:10
+date: 2017-10-28 20:10:10
 tags: Canvas
-categories: web
+categories: Canvas
 ---
 
 ### 创建canvas

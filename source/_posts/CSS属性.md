@@ -1,8 +1,8 @@
 ---
 title: CSS属性
-date: 2018-10-29 10:10:10
+date: 2017-10-29 10:10:10
 tags: CSS
-categories: web
+categories: CSS
 ---
 
 - CSS**背景属性**

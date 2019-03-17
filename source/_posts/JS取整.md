@@ -1,8 +1,8 @@
 ---
 title: JS取整
-date: 2018-10-29 10:10:10
+date: 2017-9-29 10:10:10
 tags: JS
-categories: web
+categories: JS
 ---
 
 1.丢弃小数部分,保留整数部分

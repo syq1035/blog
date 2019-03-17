@@ -2,7 +2,7 @@
 title: npm常用命令
 date: 2018-10-29 10:10:10
 tags: NodeJS
-categories: web
+categories: NodeJS
 ---
 
 **npm init**        初始化创建package.js文件

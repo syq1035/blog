@@ -1,8 +1,8 @@
 ---
 title: node+express实现个性化聊天室
-date: 2018-10-29 10:10:10
+date: 2018-11-29 10:10:10
 tags: NodeJS
-categories: web
+categories: NodeJS
 ---
 
 ## 实现功能

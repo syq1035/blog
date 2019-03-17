@@ -1,8 +1,8 @@
 ---
-title: hexo常用命令
-date: 2018-10-29 10:10:10
+title: Hexo常用命令
+date: 2017-9-09 10:10:10
 tags: hexo
-categories: web
+categories: hexo
 ---
 
 ## hexo

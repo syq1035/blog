@@ -1,8 +1,8 @@
 ---
 title: hexo搭建博客
-date: 2018-10-29 10:10:10
+date: 2017-9-09 10:10:10
 tags: hexo
-categories: web
+categories: hexo
 ---
 
 ###什么是 Hexo？

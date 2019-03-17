@@ -1,8 +1,8 @@
 ---
 title: 模块接口module.exports和require
-date: 2018-10-29 10:10:10
+date: 2017-10-29 10:10:10
 tags: ES6
-categories: web
+categories: ES6
 ---
 
 ### Node.js 中的模块接口 module.exports 的使用方法
